@@ -20,7 +20,7 @@ const WeatherDashboard = () => {
         // disabled={}
         className="cursor-pointer"
         >
-          <RefreshCw className="h-4 w-4" />
+          <RefreshCw className="h- w-4" />
         </Button>
       </div>
 
